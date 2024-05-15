@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  second-family: "Raleway", sans-serif;
+  font-family: "Raleway", sans-serif;
   background-color: #f4f4fd;
 }
 
@@ -13,7 +13,7 @@ a {
 }
 
 .logo {
-  second-family: "Raleway", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
