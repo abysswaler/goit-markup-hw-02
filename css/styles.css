@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
+  color: #434455;
 }
 
 li {
@@ -55,15 +56,11 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
 
-.tel-item:hover,
-.tel-item:focus {
-  color: #404bbf;
-}
-
-.mail-item:hover,
-.mail-item:focus {
+.contacts-item:hover,
+.contacts-item:focus {
   color: #404bbf;
 }
 
@@ -97,6 +94,7 @@ a {
 .hero-button:hover,
 .hero-button:focus {
   background-color: #404bbf;
+  font-weight: 500;
 }
 
 /* Section 2 */
@@ -122,6 +120,10 @@ a {
 
 /* Section 3 */
 .team {
+  background-color: #F4F4FD;
+}
+
+.team-list{
   background-color: #FFFFFF;
 }
 
